@@ -1,0 +1,15 @@
+/* Header.css */
+header {
+    background-color: #e8cbcb;
+    color: #000000;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+  }
+  
+  header img {
+    width: 120px;
+    margin-left: 50px;
+    margin-right: 100px;
+  }
+  

@@ -1,0 +1,22 @@
+/* NavigationBar.css */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin-left: auto;
+    margin-top: 10px;
+  }
+  nav{
+    margin-top: 19px;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 80px;
+  }
+  
+  nav ul li a {
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
